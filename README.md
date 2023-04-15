@@ -2,7 +2,7 @@
 
 ### By Bryan Tan (Chen Zhengyu), Christy Lau Jin Yun, Visshal Natarajan and Mohammed Fauzaan
 
-### [Report](AIReport.pdf)
+## [Project Report](AIReport.pdf)
 
 ## Abstract
 
