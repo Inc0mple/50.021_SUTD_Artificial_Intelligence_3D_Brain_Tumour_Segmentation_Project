@@ -1,6 +1,6 @@
 # SUTD 50.021 Artificial Intelligence | 3D Brain Tumour Segmentation Project
 
-## [Report](AIReport.pdf) | [Slides](https://docs.google.com/presentation/d/1rFt7QGFVdLSPshTbRth7EsdzxvsI5NSsFlLf5Yv9fZA/edit?usp=sharing) | [GUI](https://fauzxan-ai-streamlit-frontend-main-9zdzta.streamlit.app/) + [GUI Repo](https://github.com/fauzxan/ai_streamlit_frontend)
+## [Report](AIReport.pdf) | [Slides](https://docs.google.com/presentation/d/1rFt7QGFVdLSPshTbRth7EsdzxvsI5NSsFlLf5Yv9fZA/edit?usp=sharing) | [GUI](https://dr-lazarus-ai-streamlit-frontend-main-wnbdru.streamlit.app/) + [GUI Repo](https://github.com/fauzxan/ai_streamlit_frontend)
 
 ### By Bryan Tan (Chen Zhengyu), Christy Lau Jin Yun, Visshal Natarajan and Mohammed Fauzaan
 
