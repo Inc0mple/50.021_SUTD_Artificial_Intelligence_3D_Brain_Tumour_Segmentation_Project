@@ -1,6 +1,6 @@
 # SUTD 50.021 Artificial Intelligence | 3D Brain Tumour Segmentation Project
 
-Awarded the SUTD X Cloudsine – Artificial Intelligence Award in 2023 for Best Project in 50.021 Artificial Intelligence. Thank you to all collaborators and for the kind generosity of SUTD and Clousine!
+Awarded the SUTD X Cloudsine – Artificial Intelligence Award in 2023 for Best Project in 50.021 Artificial Intelligence. Thank you to all collaborators and for the kind generosity of SUTD and Cloudsine!
 
 ## [Report](AIReport.pdf) | [Slides](https://docs.google.com/presentation/d/1rFt7QGFVdLSPshTbRth7EsdzxvsI5NSsFlLf5Yv9fZA/edit?usp=sharing) | [GUI](https://fauzxan-ai-streamlit-frontend-main-9zdzta.streamlit.app/) + [GUI Repo](https://github.com/fauzxan/ai_streamlit_frontend)
 
